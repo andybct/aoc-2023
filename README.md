@@ -22,6 +22,5 @@ data = get_input(1).splitlines()
 
 for line in data:
     print(line)
-
 ```
 
